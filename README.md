@@ -18,3 +18,13 @@ berikut merupakan ss dari R studio.
 
 ![1a](https://user-images.githubusercontent.com/115441787/195157051-7a400541-f180-4878-b71f-76daee2805af.png)
 
+> b. 
+
+dari kasus b, untuk mengakses distribusi geometrik acak, kita dapat mengakses menggunakan fungsi `rgeom`. dengan syntax adalah `rgeom(n, prob)`, n sebagai nilai acaraknya dilakukan sebanyak n kali dan nilai peluangnya adalah prob. dan untuk mengukur mean dapat menggunakan syntax sebagai berikut:
+
+```R
+mean(rgeom(n = 10000, prob = p) == 3)
+```
+didapatkan `0.1033`, nilai tersebut akan selalu berubah-ubah karena yang dipakai adalah random.
+
+
