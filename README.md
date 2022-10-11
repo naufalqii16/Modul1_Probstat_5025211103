@@ -27,4 +27,6 @@ mean(rgeom(n = 10000, prob = p) == 3)
 ```
 didapatkan `0.1033`, nilai tersebut akan selalu berubah-ubah karena yang dipakai adalah random.
 
+![1b](https://user-images.githubusercontent.com/115441787/195160430-e1090b9d-bdf4-46dd-aa79-77c4dd3346b2.png)
+
 
