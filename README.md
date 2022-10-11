@@ -13,5 +13,8 @@ p = 0.2
 x = 3
 dgeom(3, 0.2)
 ```
-didapatkan hasil `0.1024`
+didapatkan hasil `0.1024`\
+berikut merupakan ss dari R studio.
+
+![1a](https://user-images.githubusercontent.com/115441787/195157051-7a400541-f180-4878-b71f-76daee2805af.png)
 
