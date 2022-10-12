@@ -18,7 +18,7 @@ berikut merupakan ss dari R studio.
 
 ![1a](https://user-images.githubusercontent.com/115441787/195157051-7a400541-f180-4878-b71f-76daee2805af.png)
 
-> b. Mean distribusi Geometrik dengan 10000 data random, prob = 0,20 dimana distribusi geometrik acak tersebut X = 3 (distribusi Geometrik acak () == 3)!
+> b. hitung Mean distribusi Geometrik dengan 10000 data random, prob = 0,20 dimana distribusi geometrik acak tersebut X = 3 (distribusi Geometrik acak () == 3)!
 
 dari kasus b, untuk mengakses distribusi geometrik acak, kita dapat mengakses menggunakan fungsi `rgeom`. dengan syntax adalah `rgeom(n, prob)`, n sebagai nilai acaraknya dilakukan sebanyak n kali dan nilai peluangnya adalah prob. dan untuk mengukur mean dapat menggunakan syntax sebagai berikut:
 
